@@ -45,3 +45,11 @@ Debido a la despoblación de las tierras reconquistadas, los reinos cristianos a
 Esta repoblación disminuyó el número de hombres libres y generalizó el sistema señorial, creándose así un sistema por estamentos, que se organizaba, de mayor a menor poder, con los nobles, que eran propietarios o militares, el clero, de libre acceso y con una grán distinción de poder dentro del mismo, y, finalmente, el estado llano, el más numeroso, que consistía en campesinos y burgueses. Estos estamentos eran definidos por nacimiento, tenían roles concretos en la sociedad, y a nivel jurídico no poseían los mismos beneficios, especialmente a nivel fiscal.
 
 # 2.5 - La baja edad media en Castilla, Aragón, y Navarra
+
+Durante los siglos XIV y XV, la Baja Edad Media estuvo marcada por diversas crisis en Europa: la demográfica, con la devastadora Peste Negra; la económica, producto de malas cosechas y alta presión fiscal que generaron descontento social; y la política, con conflictos dinásticos y guerras civiles entre reinos cristianos. En la Península Ibérica, Castilla y Aragón se distinguieron por sus estructuras políticas.
+
+En Castilla predominó una monarquía autoritaria, con los reyes ejerciendo amplios poderes, a pesar de la resistencia nobiliaria. Alfonso XI y su sucesor, Pedro I el Cruel, consolidaron este modelo. Sin embargo, tras la guerra civil entre Pedro I y Enrique II de Trastámara, la victoria de Enrique llevó al ascenso de su dinastía y a luchas internas que culminaron con los Reyes Católicos, quienes consolidaron el poder monárquico. Territorialmente, Castilla aseguró el control del Estrecho y expandió su influencia en el Atlántico.
+
+En Aragón, el pactismo caracterizó la monarquía, con un respeto a fueros y privilegios locales. La debilidad real se evidenció tras la muerte de Martín el Humano en 1410, cuando Fernando de Antequera asumió el trono por elección de la nobleza en el Compromiso de Caspe. Las crisis políticas y sociales en Aragón desembocaron en una guerra civil que devastó Cataluña.
+
+Navarra, con un sistema pactista, sufrió conflictos sociales, guerras dinásticas y enfrentamientos con Castilla, hasta su anexión en 1512.
