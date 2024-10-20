@@ -48,7 +48,7 @@ while IFS= read -r line; do
 
         # Start a new section
         section_number=$(echo "$line" | grep -oP '^#*\s*\K[0-9.]+')
-        section_title=$(echo "$line" | sed 's/^#*\s*[0-9.]\+\s*[-ñáéíóúA-Za-z]*\s*//')
+        section_title=$(echo "$line" | sed 's/^#*\s*[0-9.]\+\s*[-ñáéíóúÁÉÍÓÚ]*\s*//')
         section_content=""
     else
         # Accumulate content for the current section
