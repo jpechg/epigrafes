@@ -53,3 +53,11 @@ En Castilla predominó una monarquía autoritaria, con los reyes ejerciendo ampl
 En Aragón, el pactismo caracterizó la monarquía, con un respeto a fueros y privilegios locales. La debilidad real se evidenció tras la muerte de Martín el Humano en 1410, cuando Fernando de Antequera asumió el trono por elección de la nobleza en el Compromiso de Caspe. Las crisis políticas y sociales en Aragón desembocaron en una guerra civil que devastó Cataluña.
 
 Navarra, con un sistema pactista, sufrió conflictos sociales, guerras dinásticas y enfrentamientos con Castilla, hasta su anexión en 1512.
+
+# 3.1 - Los reyes católicos
+
+Los Reyes Católicos iniciaron su unión con una boda secreta en Valladolid en 1469, cuando Isabel era aún princesa de Castilla. Tras la guerra civil castellana contra Juana "la Beltraneja", Isabel fue proclamada reina de Castilla en el Tratado de Alcaçovas en 1479, y Fernando heredó Aragón ese mismo año. La Concordia de Segovia en 1475 estableció el gobierno conjunto, respetando las instituciones particulares de cada reino en una unión dinástica, uniendo únicamente la política exterior y la inquisición.
+
+Esta monarquía fue autoritaria, contando con pocos colaboradores, como el Cardenal Cisneros. Consiguieron esto mediante 3 medidas: El sometimiento del resto de instituciones, integrando a la nobleza a la corte, reservandose el derecho de Presentación respecto a los obispos, y nombrando a corregidores afines en los pueblos, además de no convocar casi las cortes en Aragón. Además, montaron un sistema burocrático muy eficiente, con Consejos como órganos de gobierno, chancillerías y audiencias como tribunales independientes, la Santa Hermandad que servía de policía, y un ejército profesional que reemplazaba a los nobles. Finalmente, unificaron la religión, con la expulsioń de los judíos y de los musulmanes en Castilla, y el establecimiento del tribunal de la Inquisición, un tribunal religioso independiente compartido entre los 2 reinos.
+
+Como último hito de unificación, la guerra de Granada (1481-1492) finalizó la reconquista con la incorporación a Castilla del reino nazarí de Granada, con la rendición del rey Boabdil ayudada por los conflictos internos del reino, a cambio de la protección de los musulmanes restantes en el territorio.
