@@ -1,5 +1,5 @@
 #!/bin/bash
-pandoc --pdf-engine=xelatex epigrafes.md -o epigrafes.pdf
+pandoc epigrafes.md -o epigrafes.pdf
 
 echo "pdf has been rendered"
 # Input Markdown file

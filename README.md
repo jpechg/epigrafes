@@ -10,5 +10,6 @@
 | 2.3 | [Los reinos cristianos](epigrafes.md#23---los-reinos-cristianos) | 358 |
 | 2.4 | [Modelos de repoblación](epigrafes.md#24---modelos-de-repoblación) | 247 |
 | 2.5 | [La baja edad media en Castilla, Aragón, y Navarra](epigrafes.md#25---la-baja-edad-media-en-castilla-aragón-y-navarra) | 226 |
-| 3.1 | [Los reyes católicos](epigrafes.md#31---los-reyes-católicos) | 251 |
+| 3.1 | [Los reyes católicos](epigrafes.md#31---los-reyes-católicos) | 254 |
 | 3.2 | [Exploración, conquista y colonización de América](epigrafes.md#32---exploración-conquista-y-colonización-de-américa) | 287 |
+| 3.3 | [Los austrias del siglo XVI](epigrafes.md#33---los-austrias-del-siglo-xvi) | 328 |
