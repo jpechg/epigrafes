@@ -1,5 +1,5 @@
 #!/bin/bash
-pandoc epigrafes.md -o epigrafes.pdf
+pandoc --template ./sans.latex epigrafes.md -o epigrafes.pdf
 
 echo "pdf has been rendered"
 # Input Markdown file
