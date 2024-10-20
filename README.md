@@ -13,4 +13,4 @@
 | 2.5 | [La baja edad media en Castilla, Aragón, y Navarra](epigrafes.md#25---la-baja-edad-media-en-castilla-aragón-y-navarra) | 226 |
 | 3.1 | [Los reyes católicos](epigrafes.md#31---los-reyes-católicos) | 254 |
 | 3.2 | [Exploración, conquista y colonización de América](epigrafes.md#32---exploración-conquista-y-colonización-de-américa) | 287 |
-| 3.3 | [Los austrias del siglo XVI](epigrafes.md#33---los-austrias-del-siglo-xvi) | 317 |
+| 3.3 | [Los austrias del siglo XVI](epigrafes.md#33---los-austrias-del-siglo-xvi) | 307 |

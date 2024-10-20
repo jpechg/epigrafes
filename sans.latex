@@ -28,6 +28,10 @@
 \titleformat{\subsubsection}[block]{\normalfont\normalsize\bfseries}{\thesubsubsection}{1em}{}
 \setcounter{secnumdepth}{0}
 
+% Quitar sangría
+\setlength{\parindent}{0pt}  % No paragraph indentation
+\setlength{\parskip}{1em}    % Space in between paragraphs
+
 % Header setup with fancyhdr
 \usepackage{fancyhdr}
 \usepackage[dvipsnames]{xcolor}
