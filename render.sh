@@ -14,7 +14,7 @@ count_words() {
 # Function to generate a Markdown anchor link from a title
 generate_link() {
     local file_name=$(basename "$INPUT_FILE")
-    local anchor=$(echo "$section_number---$section_title" | tr '[:upper:]' '[:lower:]' | sed -e 's/[[:space:]]/-/g' -e 's/[^a-z0-9-]//g')
+    local anchor=$(echo "$section_number---$section_title" | tr '[:upper:]' '[:lower:]' | sed -e 's/[[:space:]]/-/g' -e 's/[:.,]//g')
     echo "$file_name#$anchor"
 }
 # Initialize variables
