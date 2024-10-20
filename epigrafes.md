@@ -1,4 +1,9 @@
 # Epígrafes
+## 1.1 - El paleolítico y el neolítico en la península ibérica
+ 
+El Paleolítico en la península ibérica se caracterizó por un clima frío y lluvioso con grupos nómadas sin jerarquía que practicaban una economía depredadora basada en la caza y recolección. Se divide en tres períodos: el Inferior (1.000.000-120.000 a.C.), con la aparición del Homo Antecessor y Heidelbergensis usando la industria Achelense; el Medio (120.000-40.000 a.C.), dominado por los neandertales con tecnología Musteriense; y el Superior (40.000-5.000 a.C.), con la llegada del Homo Sapiens y el desarrollo del arte rupestre naturalista, destacando la cueva de Altamira, en Cantabria, perteneciente a la cultura magdaleniense.
+
+El Neolítico (5.000-3.000 a.C.) marcó el desarrollo de la agricultura y ganadería a base de los nuevos útiles agrícolas como las azadas, la cerámica y el textil, con una división de los trabajos, provocando la sedentarización y los primeros poblados. Se distinguen dos fases: el Neolítico inicial, con la cultura de Cerámica cardial en la costa mediterránea, y el Neolítico pleno, con las culturas de Almería y sepulcros de fosa en Cataluña. El arte levantino de este período se caracteriza por figuras humanas estilizadas representando escenas de caza, luchas y danzas rituales de forma esquemática en abrigos rocosos, y la ubicación más importante es la de la cueva de Valltorta.
 
 ## 1.2 - Los pueblos prerromanos
 
