@@ -16,3 +16,5 @@
 | 3.2 | [Exploración, conquista y colonización de América](epigrafes.md#32---exploración-conquista-y-colonización-de-américa) | 287 |
 | 3.3 | [Los austrias del siglo XVI](epigrafes.md#33---los-austrias-del-siglo-xvi) | 307 |
 | 3.4 | [Los austrias del siglo XVII](epigrafes.md#34---los-austrias-del-siglo-xvii) | 301 |
+| 3.5 | [Sociedad, economía y cultura de los siglos XVI y XVII](epigrafes.md#35---sociedad-economía-y-cultura-de-los-siglos-xvi-y-xvii) | 281 |
+| 3.6 | [La guerra de sucesión](epigrafes.md#36---la-guerra-de-sucesión) | 296 |
