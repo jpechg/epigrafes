@@ -17,4 +17,7 @@
 | 3.3 | [Los austrias del siglo XVI](epigrafes.md#33---los-austrias-del-siglo-xvi) | 307 |
 | 3.4 | [Los austrias del siglo XVII](epigrafes.md#34---los-austrias-del-siglo-xvii) | 301 |
 | 3.5 | [Sociedad, economía y cultura de los siglos XVI y XVII](epigrafes.md#35---sociedad-economía-y-cultura-de-los-siglos-xvi-y-xvii) | 281 |
-| 3.6 | [La guerra de sucesión](epigrafes.md#36---la-guerra-de-sucesión) | 296 |
+| 3.6 | [La guerra de sucesión](epigrafes.md#36---la-guerra-de-sucesión) | 289 |
+| 3.7 | [La nueva monarquía borbónica](epigrafes.md#37---la-nueva-monarquía-borbónica) | 247 |
+| 3.8 | [Las reformas borbónicas en los virreinatos americanos](epigrafes.md#38---las-reformas-borbónicas-en-los-virreinatos-americanos) | 225 |
+| 3.9 | [Sociedad, economía y cultura del siglo XVIII](epigrafes.md#39---sociedad-economía-y-cultura-del-siglo-xviii) | 273 |
